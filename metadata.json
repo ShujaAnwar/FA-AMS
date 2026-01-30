@@ -1,0 +1,7 @@
+{
+  "name": "Fiqh Academy AMS - Supabase Edition",
+  "description": "A high-performance Attendance Management System with Supabase integration, featuring role-based access control, real-time updates, and comprehensive reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
